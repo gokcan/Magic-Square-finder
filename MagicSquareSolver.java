@@ -1,5 +1,5 @@
 
-package Deneme;
+package MathWorks;
 import java.util.Arrays;
 import java.util.Scanner;
 
