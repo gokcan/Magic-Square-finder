@@ -9,6 +9,9 @@ public class MagicSquare {
 		
 		//Scanner scan = new Scanner(System.in);
 
+		/*
+		* You can enter any nxn matrix below line to check if it is a magic square or not.
+		*/
 		int[][] matrix = { { 16, 3, 2, 13 }, { 5, 10, 11, 8 }, { 9, 6, 7,12 },
 				{ 4, 15, 14, 1 } };
 
